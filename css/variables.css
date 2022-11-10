@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;800&display=swap');
+
+:root {
+  --cor-botao: #5BC241;
+  --cor-ativo: #5BC241;
+  --fonte: 'Public Sans', sans-serif;
+}
